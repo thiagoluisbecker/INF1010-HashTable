@@ -1,1 +1,1 @@
-# INF1010-HashTable
+# HashTable
